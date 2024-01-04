@@ -1,5 +1,5 @@
 {
-  "name": "tangwei/knife4j-ui",
+  "name": "baoziyoo/hyperf-api-doc-knife4j-ui",
   "description": "knife4j UI.",
   "keywords": [
     "knife4j",
@@ -11,6 +11,12 @@
     {
       "name": "tang",
       "email": "tw2066@163.com"
+    },
+    {
+      "name": "ogg",
+      "email": "baoziyoo@gmail.com",
+      "homepage": "https://github.com/baoziyoo",
+      "role": "Developer"
     }
   ]
 }

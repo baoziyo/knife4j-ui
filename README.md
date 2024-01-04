@@ -3,5 +3,5 @@
 
 ### composer 安装
 ```shell
-composer require tangwei/knife4j-ui
+composer require baoziyoo/hyperf-api-doc-knife4j-ui
 ```
